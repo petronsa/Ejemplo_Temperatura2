@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejemplo_Temperatura</string>
+    <string name="simbolo_grados">º</string>
+    <string name="tempeatura">Temperatura</string>
+    <string name="grados_centigrados">ºC</string>
+    <string name="grados_faren">ºF</string>
+    <string name="salir">Salir</string>
+</resources>
